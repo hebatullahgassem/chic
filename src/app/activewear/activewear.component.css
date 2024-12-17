@@ -1,0 +1,64 @@
+.container{
+  background-color: rgba(61, 73, 157, 0.5);
+  display: table;
+}
+.dress{
+  width: 50px;
+  height: 45px;
+  margin-left: 5px;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 4px;
+}
+.quote{
+  color: white;
+  font-size: 20px;
+  display: flex;
+  margin-left: auto;
+  margin-top: 20px;
+}
+.column {
+  float: left;
+  padding: 15px;
+}
+.images{
+  width: 396px;
+  margin-top: 25px;
+  padding: 0;
+  margin: 0;
+}
+.all{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 95%;
+  height: 90%;
+  /* height: 40%; */
+  margin-top: 20px;
+}
+.talk{
+  display: flex;
+}
+.head{
+  margin: 0;
+  padding: 0;
+  background-color: rgba(61, 73, 157, 0.6);
+  font-family: arial;
+}
+.names{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  color: white;
+  font-weight: 600;
+}
+.money{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  color: white;
+  font-weight: 500;
+  margin-left: auto;
+}
+.called{
+  display: flex;
+  margin-bottom: 35px;
+}
